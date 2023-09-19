@@ -27,7 +27,7 @@ I'm always excited to collaborate, learn from others, and share knowledge.
 If you share my passion for technology or have any questions, feel free to reach out. 
 Let's connect and make the tech world an even more exciting place!
 
-GitHub:
+GitHub: https://github.com/Aariz-Hasan/Aariz-Hasan
 
 LinkedIn: https://www.linkedin.com/in/aariz-hasan-91434b24a
 
